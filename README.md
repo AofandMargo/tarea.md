@@ -8,3 +8,4 @@
 
 >¿Qué es un conector HDMI y para qué se utiliza?
 3. **Un HDMI** proporciona una interfaz entre cualquier fuente de audio y vídeo digital por medio de un único cable. Es el conector audiovisual digital que ofrece grandes ventajas a la hora de transferir la señal (audio, imagen y video).
+![MI IMAGEN FAVORITA](./img.1/2026.jpg) 
