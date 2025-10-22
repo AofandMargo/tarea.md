@@ -1,2 +1,2 @@
 ### conectores externos 
-![IMAGEN](./2025.png)
+![IMAGEN](.img1/2025.png)
