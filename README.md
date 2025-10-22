@@ -1,2 +1,3 @@
 ### conectores externos 
-![IMAGEN](.img1/2025.png)
+![MI IMAGEN FAVORITA](./img2/2025jpg) 
+
