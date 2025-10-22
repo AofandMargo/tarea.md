@@ -22,9 +22,13 @@
 
 >¿Qué es un conector RCA y para qué se utiliza?
 
+![MI IMAGEN FAVORITA](./img.1/2030.jpeg) 
+
 **El conector RCA** es un tipo de conector eléctrico comúnmente utilizado para transportar señales de audio y video. *El nombre RCA* deriva de la empresa Radio Corporation of America, que introdujo el diseño en la década de 1930. ​ Los conectores macho y jack hembra se denominan RCA plug y RCA jack.
 
 >¿Qué es una entrada TOSLINK?
+
+![MI IMAGEN FAVORITA](./img.1/2031.jpeg) 
 
 Un cable TOSLINK es un cable de fibra óptica utilizado para transmitir señales de audio digital. La palabra "TOSLINK" es una abreviatura de "Toshiba Link", ya que esta tecnología fue desarrollada inicialmente por Toshiba en la década de 1980.
 
