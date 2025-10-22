@@ -18,20 +18,20 @@
 ![MI IMAGEN FAVORITA](./img.1/2028.jpeg)
 
 3. **Un HDMI** proporciona una interfaz entre cualquier fuente de audio y vídeo digital por medio de un único cable. Es el conector audiovisual digital que ofrece grandes ventajas a la hora de transferir la señal (audio, imagen y video).
-4. 
+   
 ![MI IMAGEN FAVORITA](./img.1/2026.jpg)
 
 >¿Qué es un conector RCA y para qué se utiliza?
 
 ![MI IMAGEN FAVORITA](./img.1/2030.jpeg) 
 
-**El conector RCA** es un tipo de conector eléctrico comúnmente utilizado para transportar señales de audio y video. *El nombre RCA* deriva de la empresa Radio Corporation of America, que introdujo el diseño en la década de 1930. ​ Los conectores macho y jack hembra se denominan RCA plug y RCA jack.
+4. **El conector RCA** es un tipo de conector eléctrico comúnmente utilizado para transportar señales de audio y video. *El nombre RCA* deriva de la empresa Radio Corporation of America, que introdujo el diseño en la década de 1930. ​ Los conectores macho y jack hembra se denominan RCA plug y RCA jack.
 
 >¿Qué es una entrada TOSLINK?
 
 ![MI IMAGEN FAVORITA](./img.1/2031.jpeg) 
 
-**Un cable TOSLINK** es un cable de fibra óptica utilizado para transmitir señales de audio digital. La palabra "TOSLINK" es una abreviatura de "Toshiba Link", ya que esta tecnología fue desarrollada inicialmente por Toshiba en la década de 1980.
+5. **Un cable TOSLINK** es un cable de fibra óptica utilizado para transmitir señales de audio digital. La palabra "TOSLINK" es una abreviatura de "Toshiba Link", ya que esta tecnología fue desarrollada inicialmente por Toshiba en la década de 1980.
 
 >¿Cómo funciona toslink?
 
