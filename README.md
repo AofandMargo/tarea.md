@@ -8,4 +8,7 @@
 
 >¿Qué es un conector HDMI y para qué se utiliza?
 3. **Un HDMI** proporciona una interfaz entre cualquier fuente de audio y vídeo digital por medio de un único cable. Es el conector audiovisual digital que ofrece grandes ventajas a la hora de transferir la señal (audio, imagen y video).
-![MI IMAGEN FAVORITA](./img.1/2026.jpg) 
+![MI IMAGEN FAVORITA](./img.1/2026.jpg)
+
+>¿Qué es un conector RCA y para qué se utiliza?
+**El conector RCA** es un tipo de conector eléctrico comúnmente utilizado para transportar señales de audio y video. *El nombre RCA* deriva de la empresa Radio Corporation of America, que introdujo el diseño en la década de 1930. ​ Los conectores macho y jack hembra se denominan RCA plug y RCA jack.
