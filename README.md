@@ -18,6 +18,7 @@
 ![MI IMAGEN FAVORITA](./img.1/2028.jpeg)
 
 3. **Un HDMI** proporciona una interfaz entre cualquier fuente de audio y vídeo digital por medio de un único cable. Es el conector audiovisual digital que ofrece grandes ventajas a la hora de transferir la señal (audio, imagen y video).
+4. 
 ![MI IMAGEN FAVORITA](./img.1/2026.jpg)
 
 >¿Qué es un conector RCA y para qué se utiliza?
@@ -30,8 +31,8 @@
 
 ![MI IMAGEN FAVORITA](./img.1/2031.jpeg) 
 
-Un cable TOSLINK es un cable de fibra óptica utilizado para transmitir señales de audio digital. La palabra "TOSLINK" es una abreviatura de "Toshiba Link", ya que esta tecnología fue desarrollada inicialmente por Toshiba en la década de 1980.
+**Un cable TOSLINK** es un cable de fibra óptica utilizado para transmitir señales de audio digital. La palabra "TOSLINK" es una abreviatura de "Toshiba Link", ya que esta tecnología fue desarrollada inicialmente por Toshiba en la década de 1980.
 
 >¿Cómo funciona toslink?
 
-El cable óptico TOSLINK transfiere datos de audio como señales de luz, en lugar de conexiones analógicas . Además, las conexiones analógicas son vulnerables a interferencias y degradación de la señal. Esto garantiza que el audio permanezca libre de interferencias electromagnéticas.
+**El cable óptico TOSLINK** transfiere datos de audio como señales de luz, en lugar de conexiones analógicas . Además, las conexiones analógicas son vulnerables a interferencias y degradación de la señal. Esto garantiza que el audio permanezca libre de interferencias electromagnéticas.
