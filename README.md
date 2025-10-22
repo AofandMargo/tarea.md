@@ -1,2 +1,2 @@
 ### conectores externos 
-![IMAGEN](/images/logo.png)
+![IMAGEN](./2025.png)
